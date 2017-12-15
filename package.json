@@ -1,0 +1,16 @@
+{
+  "name": "fb_chatboi",
+  "version": "1.0.0",
+  "description": "A chatboi for Facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
